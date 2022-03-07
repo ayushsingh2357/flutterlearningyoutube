@@ -4,7 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application, and in this project mulitple data structures and their operations have been used.
+To name a few, Extensive use of arrays and stack and hashmaps have been used.
 
 A few resources to get you started if this is your first Flutter project:
 
